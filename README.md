@@ -4,7 +4,7 @@ This repository contains an end-to-end Extract, Transform, Load (ETL) pipeline a
 
 Key components:
 
-Data Dictionary (provided): Definitions for each field in the raw dataset. citeturn0file0
+Data Dictionary (provided): Definitions for each field in the raw dataset.
 
 Data Model (uber_data_model.png): Star schema design with fact and dimension tables.
 
@@ -42,7 +42,7 @@ Payment_type: Payment method (1 = credit card, 2 = cash, etc.)
 
 Fare_amount, Extra, MTA_tax, Improvement_surcharge, Tip_amount, Tolls_amount, Total_amount, Congestion_Surcharge, Airport_fee
 
-For full definitions, see data_dictionary_trip_records_yellow.pdf citeturn0file0.
+For full definitions, see data_dictionary_trip_records_yellow.pdf
 
 Dimensional Data Model
 
